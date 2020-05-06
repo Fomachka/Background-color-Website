@@ -1,4 +1,4 @@
-# Background-color-Website
+# Background-Color-Website
 Website where you can change a background color or generate a random color!
 
 
